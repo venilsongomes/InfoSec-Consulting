@@ -14,7 +14,7 @@ function Footer() {
         <div className="flex flex-col gap-2 mt-4"> 
             <p className=" text-sm text-gray-300"><i className="fas fa-envelope text-[#A67314] mr-2"></i>  <a></a>contato@vaconsultoria.com.br  </p>
             <p className=" text-sm text-gray-300"><i className="fas fa-phone text-[#A67314] mr-2 "></i> (11) 1234-5678</p>
-            <p className=" text-sm text-gray-300"><i className="fas fa-map-marker-alt  text-[#A67314] mr-2"></i>  Rua Exemplo, 123 - São Paulo, SP</p>
+            <p className=" text-sm text-gray-300"><i className="fas fa-map-marker-alt  text-[#A67314] mr-2"></i>  Leste Universitário - 200 Goiânia</p>
 
             <div className="flex gap-4 mt-4">
 
