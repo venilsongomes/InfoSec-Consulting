@@ -3,6 +3,8 @@ import './App.css'
 import Home from './pages/Home'
 import Navbar from './pages/Navbar'
 import Sobre from './pages/Sobre'
+import Servicos from './pages/Servicos'
+import Contato from './pages/Footer'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -12,6 +14,8 @@ function App() {
       <Navbar/>
       <Home />
       <Sobre/>
+      <Servicos/>
+      <Contato/>
     </>
   )
 }
