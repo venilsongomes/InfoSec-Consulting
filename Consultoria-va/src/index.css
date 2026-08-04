@@ -12,7 +12,7 @@ body {
     padding: 0;
     font-family: 'Inter', sans-serif;
     background-color: var(--azul-logo);
-    color: white;
+   
 }
  body::-webkit-scrollbar {
       display: none;

@@ -49,10 +49,10 @@ function Navegacao() {
         <li><a href="#contact" className="font-semibold text-sm hover:text-[#D4AF37]" onClick={toggleMenu}>Trabalhe conosco</a></li>
       </ul>
 
-      <a href="#contact" className="bg-blue-500 text-[12px] hover:text-[#D4AF37] text-white p-2 md:p-2 rounded inline-flex items-center h-fit">
+      <a href="#contact" className="bg-blue-500 text-[12px] hover:bg-[#A67314] text-white p-2 md:p-2 rounded inline-flex items-center h-fit">
             Fale com um Especialista <motion.div animate={{   x: [0, 4, 0]  }}  transition={{   duration: 1,    repeat: Infinity,   ease: "easeInOut" }} className="text-sm">   <i className="fas fa-arrow-right ml-2"> </i></motion.div>
       </a>
-      
+
     </nav>
   );
 }

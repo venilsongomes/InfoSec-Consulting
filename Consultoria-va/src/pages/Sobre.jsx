@@ -1,6 +1,8 @@
 import React, { useEffect, useRef, useState } from "react";
 import { motion } from "framer-motion";
 
+
+
 function AnimatedMetric({ value, suffix, label, delay = 0, start = false }) {
   const [displayValue, setDisplayValue] = useState(0);
 
