@@ -7,7 +7,8 @@ function Navegacao() {
     setIsOpen(!isOpen);
   };
   return (
-    <nav className="flex bg-[#050E21] justify-between text-white px-4  py-4 fixed top-0 left-0 right-0 shadow z-11">
+    <nav className="flex bg-[#050E21] justify-between justify-items items-center justify-content px-7 py-4  text-white  fixed top-0 left-0 right-0 shadow z-11">
+
       <div className="hidden md:flex flex items-center gap-2">
         <a href="#home" className="inline-flex items-center">
           <div className="flex items-center gap-2 hover:text-[#D4AF37] transition-colors duration-300">
