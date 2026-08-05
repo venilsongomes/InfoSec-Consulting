@@ -2,7 +2,7 @@
 
 Landing page e plataforma institucional desenvolvida para uma empresa de consultoria em Segurança da Informação, com foco em alta conversão de leads, apresentação clara de serviços de cibersegurança e experiência responsiva.
 
-🔗 **Link do Projeto Online (Live Demo):** [Acessar Projeto](https://venilsongomes.github.io/Portifolio/)
+🔗 **Link do Projeto Online (Live Demo):** [Acessar Projeto](https://info-sec-consulting.vercel.app/)
 
 ---
 
