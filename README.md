@@ -26,7 +26,7 @@ Landing page e plataforma institucional desenvolvida para uma empresa de consult
 - **Front-end:** React.js, Tailwind CSS (ou Styled-Components)
 - **Ícones & Componentes:** Lucide React / React Icons
 - **Build Tool:** Vite / Create React App
-- **Deploy:** Gitpages
+- **Deploy:** Vercel
 
 ---
 
