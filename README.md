@@ -42,8 +42,8 @@ Landing page e plataforma institucional desenvolvida para uma empresa de consult
 
 3. Instale as dependências:
     npm install
-    
+
 4. Inicie o servidor de desenvolvimento:
     npm run dev
 
-    Desenvolvido por Venillson Gomes 🚀
+Desenvolvido por Venillson Gomes 🚀
